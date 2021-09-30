@@ -1,5 +1,5 @@
 # Microcontrollers
-This repository is set of resources and information for Microcontrollers such as Arduino, ESP8266 and/or more.
+This repository is a set of resources and information for Microcontrollers such as Arduino, ESP8266 and/or more.
 
 <br>
 
@@ -14,3 +14,7 @@ This repository is set of resources and information for Microcontrollers such as
 
 #### **Reference for adding the ESP8266 board at Arduino's IDE**
 https://github.com/esp8266/Arduino
+
+<br>
+
+This repository was created by: https://github.com/joaovcoelho
