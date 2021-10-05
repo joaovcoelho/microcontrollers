@@ -9,6 +9,8 @@ This repository is a set of resources and information for Microcontrollers such 
 * 3 - Open up *"tools>board>boards manager"*, type in **esp8266** and install;
 * **4 - For inserting libraries**, you can go to *"tools>Manage libraries"* and search for some, or you can add the previously downloaded library file by opening *"sketch>include library>add .ZIP"* and finding your file (or manually at Arduino's Library destination).
 
+**Bonus**: [Video with the steps above](https://www.youtube.com/watch?v=ziXwS7KQuJQ)
+
 <br>
 <br>
 
